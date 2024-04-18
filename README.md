@@ -1,5 +1,5 @@
 # Event-driven architecture
-This is a repository for project management in the event-driven architecture POC project.
+This is a repository for project management in the event-driven architecture POC [project](https://github.com/Clinical-Genomics/project-planning/issues/525).
 
 ## How we work
 - Build backlog with user stories
