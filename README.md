@@ -1,6 +1,15 @@
 # Event-driven architecture
 This is a repository for project management in the event-driven architecture POC [project](https://github.com/Clinical-Genomics/project-planning/issues/525).
 
+## Project summary
+Time span 2024-05-02 until 2024-08-02.
+What: replace one timer in production with an event.
+How: implement a basic pub/sub messaging pattern using the confluent Kafka platform.
+Why: evaluate viability of messaging pattern at clinical genomics to reduce turn around times.
+
+@seallard will act as  a facilitator, setting up meetings, planning and ensuring the project moves forward.
+
+
 ## How we work
 - Build backlog with user stories
 - Separate technical refinement
