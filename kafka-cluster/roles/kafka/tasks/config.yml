@@ -1,0 +1,14 @@
+- name: Create Kafka data directory
+  file:
+    path: /var/lib/kafka/data
+    state: directory
+    owner: kafka
+    group: kafka
+
+- name: Deploy Kafka configuration
+  template:
+    src: server.properties.j2
+    dest: /opt/kafka/config/server.properties
+    owner: kafka
+    group: kafka
+    mode: '0644'
