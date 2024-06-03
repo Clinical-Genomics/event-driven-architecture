@@ -1,0 +1,5 @@
+- name: Setup Kafka Cluster in Kraft mode
+  hosts: all
+  become: true
+  roles:
+    - kafka
