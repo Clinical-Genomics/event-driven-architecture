@@ -1,6 +1,12 @@
 # Event-driven architecture
 This is a repository for project management in the event-driven architecture POC [project](https://github.com/Clinical-Genomics/project-planning/issues/525).
 
+- [Presentation of selected platform: NATS JetStream](https://docs.google.com/presentation/d/1YHi_4m2xAGfqsQzPpU-TIAMdIsSnIBpRzTgw0ePp0kI/edit#slide=id.p)
+- [Key considerations](https://github.com/Clinical-Genomics/event-driven-architecture/issues/16)
+- [Mapping out existing platforms](https://github.com/Clinical-Genomics/event-driven-architecture/issues/17)
+- [Evaluating existing platforms](https://github.com/Clinical-Genomics/event-driven-architecture/issues/18)
+
+
 ## Project summary
 Time span 2024-05-02 until 2024-08-02.
 What: replace one timer in production with an event.
